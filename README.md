@@ -7,15 +7,15 @@ cryptocurrencies at the best price available any time**
 
 **->With the help of a crypto bot, any novice can also start
 trading and take risks in the market with appropriate
-predictions **
+predictions**
 
 
 ## Features Of Our Bot
-**->Arbitrage Trading **
+**->Arbitrage Trading**
 
 **->High-frequency trading** 
 
-**->Algorithmic trading **
+**->Algorithmic trading**
 
 ## Functions of our bot
 
